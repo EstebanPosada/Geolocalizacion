@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geolocalizacion</string>
+    <string name="title_activity_maps">Mapita</string>
+    <string name="data">Position</string>
+</resources>
